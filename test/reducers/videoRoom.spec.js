@@ -1,4 +1,5 @@
 import expect from 'expect'
+
 import {
   ROOM_LOCAL_FEED,
   ROOM_LOCAL_STREAM,
